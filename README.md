@@ -1,4 +1,5 @@
 # How-to-add-or-remove-rows-inside-a-table-dynamically-using-jQuery
+google-url:https://www.tutorialrepublic.com/codelab.php?topic=faq&file=jquery-append-and-remove-table-row-dynamically
 <!DOCTYPE html>
 <html lang="en">
 <head>
